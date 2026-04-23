@@ -1,0 +1,394 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Carolina Leite
+  tagline: Bioinformatics Student
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: up202307856@up.pt
+  phone: 
+  website: http://caroleite05.github.io/
+  linkedin: carolina-leite-9510a5309
+  github: caroleite05
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: Portuguese
+      level: Native
+  
+  activities:
+    title: Others Activities
+    info:
+    - item: Volunteering - Run and Walk at the University of Porto - 115 years (2026)
+
+    - item: Volunteering - National Science Fair of the Youth Foundation (2025)
+
+    - item: Artistic Swimmer - Portuguese Swimming Federation (2014–present)
+
+  interests:
+    title: Interests
+    info:
+    - item: Scientific Research
+      link:
+
+
+    - item: Informatics and Health
+
+    - item: Sports
+    
+    - item: Biomedical Data Analysis
+
+    - item: Personalized Medicine
+
+    - item: Science and Innovation
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Third-year Bachelor's student in Bioinformatics at the Faculty of Sciences, 
+    University of Porto, with a strong interest in the application of data science, 
+    artificial intelligence, and bioinformatics to healthcare.
+    I have a multidisciplinary background, with knowledge in programming (Python), 
+    data analysis, machine learning, genetics, and biology. I am particularly interested 
+    in projects that combine technology and life sciences to solve real-world problems in 
+    healthcare, especially in the context of biomedical data analysis, clinical bioinformatics, 
+    and personalized medicine.
+    I am seeking to further develop my expertise in Health Informatics, contributing to the 
+    development of innovative solutions that support clinical research, health data analysis, 
+    and the improvement of medical care.
+    Alongside my academic path, I am a high-performance Artistic Swimming athlete, which has 
+    helped me develop resilience, focus, and strong organizational skills—qualities that I bring 
+    into both my academic and professional life.
+honors:
+  title: Honors & Scholarships
+  info:
+  - title: Gulbenkian Merit Scholar – Gulbenkian Merit Scholarship
+    time: 2024 - present
+    details: |
+      I was awarded a Merit Scholarship from the Calouste Gulbenkian Foundation in recognition of my academic performance and dedication to my studies. The scholarship has been instrumental in supporting my education in Bioinformatics and in fostering my professional growth and development.
+
+  - title: Academic Distinction Scholarship (Impulso Jovens STEAM Program)
+    time: 2024, 2025
+    details: |
+      One of the top 5 Bioinformatics students at FCUP
+
+education:
+  title: Education
+  info:
+  - degree: BSc in Bioinformatics
+    university: Faculty of Sciences of University of Porto, Porto
+    time: sep 2023 - present
+    details: |
+      **Grade: 16,96**  
+      Bachelor’s student in Bioinformatics at the Faculty of Sciences of the University of Porto.
+      Multidisciplinary training combining programming, genetics, molecular biology, and data analysis.
+      Interested in the application of bioinformatics in the healthcare field.
+        - Python
+        - Bioinformatics
+        - Genetics
+        - AI
+        - Curiosity and Teamwork
+  - degree: Secondary Education - Science and Technology
+    university: Júlio Dinis High School, Ovar
+    time: sep 2020 - jul 2023
+    details: |
+      **Grade: 19,4**  
+      Activities:
+      - Science Club
+      - School Sports - Athletics
+      - Mathematics Olympiad
+      - Biology Olympiad
+      - "Kangaroo Math" Competition
+      - "More and Better Readers" Competition
+
+experiences:
+  title: Experience
+  info:
+  - role: Bioinformatics Intern
+    time: feb 2026 - present
+    company: i3S - Instituto de Investigação e Inovação em Saúde
+    details: |
+      Contribution to the development and maintenance of the pegi3S Bioinformatics Docker Images Project (BDIP), a curated collection of 150+ Docker containers supporting genomics, transcriptomics, phylogenetics, and structural biology workflows.
+      - Developing and maintaining Docker-based bioinformatics environments to ensure portability and reproducibility.
+      - Implementing automated testing frameworks for container validation.
+      - Supporting large-scale containerized infrastructures for bioinformatics applications.
+
+      Supervised by Prof. Jorge Vieira and Prof. Cristina Vieira.
+  
+
+certifications:
+  title: Activities & Certifications
+  list:
+  - name: 'Course: "Literacy in AI Translation for Healthcare Settings"'
+    start: 2026
+    end: 
+    organization: Universidade Nova de Lisboa
+    credentialid: 
+    credentialurl: lms.nau.edu.pt/certificates/710a3e3ac5cd4cc0867e502164eaaffc
+    credentialname: Platform NAU
+    details: |
+      **Skills:** AI, Translation for Healthcare and Ethical Dilemmas
+  
+  - name: 'Course: "Strategies for the Management of Antimicrobial Resistance"'
+    start: 2026
+    end:
+    organization: Direção-Geral de Saúde (DGS)
+    credentialid: 
+    credentialurl: lms.nau.edu.pt/certificates/7a5469acc25c4cc5b13a288f2ad2721c
+    credentialname: Platform NAU
+    details: |
+      **Skills:** Microbiology and Antimicrobial Resistance
+  
+  - name: 'Course: "Mastering AI with Gemini"'
+    start: 2026
+    end:
+    organization: Google
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Google Gemini and AI
+  
+  - name: 'Event: “Career Design – Challenges and Opportunities in Data Science”'
+    start: 2025
+    end:
+    organization: Faculty of Sciences of University Porto (FCUP)
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Career/Life Design, Networking and  Leadership
+  
+  - name: Participant – 2025 Calouste Gulbenkian Foundation Scholars’ Meeting
+    start: 2025
+    end:
+    organization: Fundação Calouste Gulbenkian
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Networking
+
+  
+  - name: Recognized and featured in the book "Raparigas na Ciência" – Volume 2, highlighting young women in STEM.
+    start: 2024
+    end:
+    organization: Ciência Viva
+    credentialid: 
+    credentialurl: www.youtube.com/watch?v=GP0PPnXfzA0
+    credentialname: View
+    details: |
+      **Skills:** Scientific Communication
+  
+  - name: 32nd Portuguese National Competition for Young Scientists and Researchers | 18th National Science Exhibition (Portugal)
+    start: 2024
+    end:
+    organization: Fundação da Juventude
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Scientific Communication, Curiosity and Teamwork
+      
+      **Awards:** Porto Editora Prize
+  
+  - name: 'Event: SEI.ence'
+    start: 2024
+    end:
+    organization: Câmara Municipal do Porto
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Scientific Communication  
+      Participation in a pitch format as a speaker.
+  
+  - name: 'Workshop in Python'
+    start: 2023
+    end:
+    organization: NUCC - Faculty of Sciences of University Porto (FCUP)
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Python  
+      Introduction to Python programming
+
+
+  - name: 'Activity: “Innovation in the Health Sector”, led by the University of Porto, within the framework of the European University Alliance for Global Health (EUGLOH) and funded by the project “Skills for a Next Generation U.Porto”'
+    start: 2023
+    end:
+    organization: EUGLOH
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Healthcare Innovation, Digital Health and Scientific Communication
+
+  - name: China Adolescents Science and Technology Innovation Contest (CASTIC)
+    start: 2023
+    end:
+    organization: China Association for Science and Technology
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Scientific Communication and Networking
+      
+      **Awards:** 
+      - 2th place (**Silver Medal**) 
+      - Special Award by Indonesian Young Scientist Association (IYSA)
+  
+  - name: 31st Portuguese National Competition for Young Scientists and Researchers | 17th National Science Exhibition (Portugal)
+    start: 2023
+    end:
+    organization: Fundação da Juventude
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Scientific Communication, Curiosity and Teamwork
+      
+      **Awards:** 
+      - 5th place
+      - Participation in international competitions: CASTIC, China
+
+  - name: MILSET Expo-Sciences Vostok, Kazakhstan
+    start: 2022
+    end:
+    organization: MILSET
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Scientific Communication
+
+  - name: 30th Portuguese National Competition for Young Scientists and Researchers | 16th National Science Exhibition (Portugal)
+    start: 2022
+    end:
+    organization: Fundação da Juventude
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Scientific Communication, Curiosity and Teamwork 
+      
+      **Awards:** 
+      - Porto Editora Prize
+      - Participation in international competitions: MILSET, Kazakhstan
+
+  - name: National Team Artistic Swimming Athlete (Portugal)
+    start: 2018
+    end:
+    organization: Federação Portuguesa de Natação (FPN)
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Resilience, Focus and Teamwork
+
+projects:
+  title: Projects
+  assignments:
+  - title: "Worms: Plague or Solution? - Biodegradation of Plastics"
+    link: "https://www.fjuventude.pt/pt/noticias/fundacao/fundacao-da-juventude-leva-delegacao-portuguesa-a-um-dos-maiores-concursos-de-ciencia-na-china"
+    date: "2021 – 2024"
+    tagline: "Project focused on plastic biodegradation using worms of Tenebrio molitor and Galleria mellonella. Application of FTIR (Fourier-Transform Infrared Spectroscopy) technology for material analysis. Developed during secondary education, with the collaboration of colleagues, teachers, and researchers."
+
+#oss:
+  #title: OSS Contributions
+  #intro: >
+    #You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  #contributions:
+  #- title: Tempo
+    #link: "#"
+    #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#publications:
+  #title: Publications
+  #intro: |
+    #You can list your publications in this section. Lorem ipsum dolor sit
+    #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #bibendum fringilla a eu lectus.
+  #papers:
+  #- title: The Art of Computer Programming
+    #link: "#"
+    #authors: Donald E. Knuth
+    #conference: Addison-Wesley, 1968
+
+#recommendations:
+  #title: 
+  #list:
+  #- person: 
+    #email: 
+    #phone: 
+    #role: 
+    #recommendation: |
+      
+
+technical_skills:
+  title: Technical Skills
+
+  toolset:
+  - name: Bioinformatics Tools
+    level: 98%
+
+  - name: Machine Learning
+    level: 95%
+
+  - name: Python 
+    level: 95%
+
+  - name: Data Analysis
+    level: 90%
+
+  - name: Genetics & Genomics
+    level: 90%
+
+  - name: Statistics
+    level: 80%
+
+
+soft_skills:
+  title: Soft Skills
+
+  toolset:
+  - name: Creativity
+    level: 100%
+
+  - name: Teamwork
+    level: 98%
+  
+  - name: Resilience
+    level: 98%
+
+  - name: Focus 
+    level: 95%
+  
+  - name: Critical Thinking 
+    level: 85%
+
+  - name: Curiosity
+    level: 85%

@@ -1,0 +1,16 @@
+{% assign activities = site.data.data.sidebar.activities %}
+{% if activities %}
+<div class="container-block">
+
+  <h2 class="container-block-title">
+    {{ activities.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for activity in activities.info %}
+    <li>{{ activity.item }}</li>
+    {% endfor %}
+  </ul>
+
+</div>
+{% endif %}
