@@ -67,20 +67,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Third-year Bachelor's student in Bioinformatics at the Faculty of Sciences, 
-    University of Porto, with a strong interest in the application of data science, 
-    artificial intelligence, and bioinformatics to healthcare.
-    I have a multidisciplinary background, with knowledge in programming (Python), 
-    data analysis, machine learning, genetics, and biology. I am particularly interested 
-    in projects that combine technology and life sciences to solve real-world problems in 
-    healthcare, especially in the context of biomedical data analysis, clinical bioinformatics, 
-    and personalized medicine.
-    I am seeking to further develop my expertise in Health Informatics, contributing to the 
-    development of innovative solutions that support clinical research, health data analysis, 
-    and the improvement of medical care.
-    Alongside my academic path, I am a high-performance Artistic Swimming athlete, which has 
-    helped me develop resilience, focus, and strong organizational skills—qualities that I bring 
-    into both my academic and professional life.
+    BSc in Bioinformatics from the Faculty of Sciences, University of Porto, passionate about applying Artificial Intelligence, Data Science, and Bioinformatics to address real-world challenges in healthcare.
+My academic background has provided me with a multidisciplinary foundation in programming, data analysis, machine learning, genomics, and computational biology. I am particularly interested in developing data-driven solutions that bridge technology and life sciences, with a focus on biomedical data analysis, clinical bioinformatics, and personalized medicine.
+I am eager to contribute to innovative research and technologies that support clinical decision-making, improve healthcare delivery, and advance biomedical research.
+Alongside my academic journey, I have been a high-performance Artistic Swimming athlete, an experience that has strengthened my discipline, resilience, teamwork, and ability to perform under pressure, qualities that I bring to every academic and professional challenge.
 honors:
   title: Honors & Scholarships
   info:
@@ -99,9 +89,9 @@ education:
   info:
   - degree: BSc in Bioinformatics
     university: Faculty of Sciences of University of Porto, Porto
-    time: sep 2023 - present
+    time: sep 2023 - jul 2026
     details: |
-      **Grade: 16,96**  
+      **Grade: 17,17**  
       Bachelor’s student in Bioinformatics at the Faculty of Sciences of the University of Porto.
       Multidisciplinary training combining programming, genetics, molecular biology, and data analysis.
       Interested in the application of bioinformatics in the healthcare field.
@@ -127,7 +117,7 @@ experiences:
   title: Experience
   info:
   - role: Bioinformatics Intern
-    time: feb 2026 - present
+    time: feb 2026 - jul 2026
     company: i3S - Instituto de Investigação e Inovação em Saúde
     details: |
       Contribution to the development and maintenance of the pegi3S Bioinformatics Docker Images Project (BDIP), a curated collection of 150+ Docker containers supporting genomics, transcriptomics, phylogenetics, and structural biology workflows.
@@ -141,6 +131,16 @@ experiences:
 certifications:
   title: Activities & Certifications
   list:
+  - name: 'Workshop: "Docker Crash Course"'
+    start: 2026
+    end: 
+    organization: Faculty of Sciences of University Porto (FCUP)
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      **Skills:** Docker and Bioinformatics Pipelines
+  
   - name: 'Course: "Literacy in AI Translation for Healthcare Settings"'
     start: 2026
     end: 
